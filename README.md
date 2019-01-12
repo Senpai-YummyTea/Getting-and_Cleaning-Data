@@ -4,7 +4,7 @@ This Repo contains following files:
 * 1. run_analysis.R
 * 2. Codebook.md
 * 3. tidyData.txt
-* 4. README.md2
+* 4. README.md
 ## The data acquired
 It came from UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
