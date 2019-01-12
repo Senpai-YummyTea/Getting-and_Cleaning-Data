@@ -18,5 +18,15 @@ The code provided is the combination of all datasets (train and test) and extrac
 ##Tidy Data
 In txt.format, consists of 180 observations and 68 columns.
 
+##Instructions
+Downloading the data files and reading it to R.
+Then create a R file called run_analysis.R to does:
+
+1. Merge the train and test set into one data set.
+2. Extracts only the measurements on the mean and standard deviation for each measurement.
+3. Uses descriptive activity names to name the activities in the data set
+4. Appropriately labels the data set with descriptive variable names.
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
 
 
